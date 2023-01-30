@@ -49,6 +49,7 @@ test-cases:
   - summary: |
       Проверка оформления заказа
     status: fail
+    
 bugreports:
   - summary: |
       Проверка оформления заказа
